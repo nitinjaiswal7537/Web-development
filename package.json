@@ -1,0 +1,17 @@
+{
+  "name": "git_test1",
+  "version": "1.0.0",
+  "description": "This is a description to learn Git and node js",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+
+  },
+  "author": "Nitin Jaiswal",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
